@@ -1,0 +1,26 @@
+logDefer 2022/12/16 17:44:04 Hello there!
+logDefer 2022/12/16 17:44:04 Another log entry!
+logDefer 2022/12/16 17:44:04 -- FUNCTION one ------
+logDefer 2022/12/16 17:44:04 0
+logDefer 2022/12/16 17:44:04 1
+logDefer 2022/12/16 17:44:04 2
+logDefer 2022/12/16 17:44:04 3
+logDefer 2022/12/16 17:44:04 4
+logDefer 2022/12/16 17:44:04 5
+logDefer 2022/12/16 17:44:04 6
+logDefer 2022/12/16 17:44:04 7
+logDefer 2022/12/16 17:44:04 8
+logDefer 2022/12/16 17:44:04 9
+logDefer 2022/12/16 17:44:04 -- FUNCTION one ------
+logDefer 2022/12/16 17:44:04 ---- FUNCTION two
+logDefer 2022/12/16 17:44:04 10
+logDefer 2022/12/16 17:44:04 9
+logDefer 2022/12/16 17:44:04 8
+logDefer 2022/12/16 17:44:04 7
+logDefer 2022/12/16 17:44:04 6
+logDefer 2022/12/16 17:44:04 5
+logDefer 2022/12/16 17:44:04 4
+logDefer 2022/12/16 17:44:04 3
+logDefer 2022/12/16 17:44:04 2
+logDefer 2022/12/16 17:44:04 1
+logDefer 2022/12/16 17:44:04 FUNCTION two ------
